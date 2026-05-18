@@ -1,2 +1,3 @@
-# html
-html basics 
+#HTML
+
+ HTML BASICS
